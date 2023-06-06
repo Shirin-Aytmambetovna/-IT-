@@ -12,7 +12,6 @@ body {
 #section_one {
   background-image: url("img1/Rectangle.png");
   background-repeat: no-repeat;
-  height: 900px;
   background-size: contain;
 }
 
@@ -22,8 +21,8 @@ body {
   justify-content: space-between;
   padding-top: 40px;
   height: 20px;
-  padding-left: 600px;
-  padding-right: 200px;
+  padding-left: 500px;
+  padding-right: 100px;
   padding-bottom: 40px;
   color: white;
 }
@@ -60,7 +59,7 @@ body {
   border-radius: 30px;
   text-align: center;
   color: #ffffff;
-  margin-left: 500px;
+  margin-left: 430px;
   margin-bottom: 63px;
   border: none;
 }
@@ -73,14 +72,14 @@ body {
   line-height: 20px;
   text-align: center;
   color: #ffffff;
-  margin-left: 520px;
+  margin-left: 430px;
   margin-top: 150px;
 }
 
 .two {
   width: 800px;
   height: 111px;
-  margin-left: 200px;
+  margin-left: 150px;
   font-weight: 800;
   font-size: 48px;
   line-height: 64px;
@@ -103,6 +102,7 @@ body {
 
 .section_two {
   margin: 0 auto;
+  padding: 0 auto;
 }
 .two_text {
   width: 739px;
@@ -112,7 +112,7 @@ body {
   line-height: 53px;
   text-align: center;
   color: #323232;
-  margin-left: 280px;
+  margin-left: 200px;
 }
 
 .two_textp {
@@ -125,7 +125,7 @@ body {
   line-height: 25px;
   text-align: center;
   color: #999999;
-  margin-left: 280px;
+  margin-left: 200px;
 }
 
 .one_twoo {
@@ -397,7 +397,7 @@ body {
 
 .video {
   position: relative;
-  margin-left: 160px;
+  margin-left: 50px;
 }
 
 .hr_six {
@@ -425,7 +425,7 @@ body {
   line-height: 22px;
   text-align: center;
   color: #000000;
-  margin-left: 480px;
+  margin-left: 350px;
 }
 
 .section_sem p {
@@ -436,7 +436,7 @@ body {
   line-height: 25px;
   text-align: center;
   color: #999999;
-  margin-left: 300px;
+  margin-left: 170px;
 }
 
 .first {
@@ -455,7 +455,7 @@ body {
 
 .second {
   position: absolute;
-  right: 450px;
+  right: 350px;
   width: 190px;
   height: 45px;
   background: #4985ff;
@@ -472,7 +472,7 @@ body {
 .buttons {
   margin-top: 43px;
   margin-bottom: 43px;
-  margin-left: 420px;
+  margin-left: 280px;
 }
 
 #footer {
